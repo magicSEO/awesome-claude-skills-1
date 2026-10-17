@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [berlin-market-data](https://github.com/magicSEO/eigenheim-mcp/tree/main/skills/berlin-market-data) - Berlin real estate data: price per m² by locality, rental yields, land values, forecasts and listings via a free read-only MCP. No API key.
 
 
 ## 🔬 Scientific & Research Tools
